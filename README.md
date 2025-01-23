@@ -12,5 +12,5 @@ Este é um projeto simples de cadastro desenvolvido com React. A aplicação per
 ## 🛠️ Tecnologias Utilizadas
 
 - [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces.
-- [Vite](https://vitejs.dev/) - Ferramenta de build rápida (se aplicável).
+- [Vite](https://vitejs.dev/) - Ferramenta de build rápida.
 - CSS para estilização básica.
