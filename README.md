@@ -1,8 +1,17 @@
-# React + Vite
+# Cadastro Simples com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto simples de cadastro desenvolvido com React. A aplicação permite que o usuário insira seu **nome**, **idade** e **e-mail**, simulando um formulário de registro.
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Formulário de cadastro com campos para:
+  - Nome
+  - Idade
+  - E-mail
+- Validação básica dos campos (se aplicável).
+
+## 🛠️ Tecnologias Utilizadas
+
+- [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces.
+- [Vite](https://vitejs.dev/) - Ferramenta de build rápida (se aplicável).
+- CSS para estilização básica.
