@@ -8,7 +8,6 @@ Este é um projeto simples de cadastro desenvolvido com React. A aplicação per
   - Nome
   - Idade
   - E-mail
-- Validação básica dos campos (se aplicável).
 
 ## 🛠️ Tecnologias Utilizadas
 
